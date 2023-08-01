@@ -9,8 +9,11 @@
 
 
 To use the models in different versions like: 
+'''
 ORIGINAL: When you have large no. of GPU's
+'''
 GPTQ: More compatible with gpu's 
+'''
 GGML: Best for CPU and mac chips
 
 ### Full Precision (Original)
